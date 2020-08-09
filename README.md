@@ -7,7 +7,7 @@
       2.git clone 
       3.python manage.py runserver
   ```
-#Some Screenshots of the Blog Web Application
+# Some Screenshots of the Blog Web Application
   ![Screenshot from 2020-08-09 22-25-18](https://user-images.githubusercontent.com/13889409/89737806-b204e600-da91-11ea-83cf-3d5eebec5576.png)
   ![Screenshot from 2020-08-09 22-26-06](https://user-images.githubusercontent.com/13889409/89737807-b4674000-da91-11ea-9f33-99b8f38f109d.png)
   ![Screenshot from 2020-08-09 22-26-20](https://user-images.githubusercontent.com/13889409/89737810-b5986d00-da91-11ea-8a6b-56d2673b7ab7.png)
