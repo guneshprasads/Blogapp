@@ -3,8 +3,8 @@
   
 ## How to install it:
   '''
-      1.install the requirements.txt
-      2.git clone 
-      3.python manage.py runserver
+ 1.install the requirements.txt
+ 2.git clone 
+ 3.python manage.py runserver
   '''
   
